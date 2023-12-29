@@ -1,0 +1,8 @@
+SELECT * FROM onlshop_product.category;
+SET SQL_SAFE_UPDATES = 0;
+DELETE FROM onlshop_product.category;
+
+
+alter table onlshop_product.sale_product
+add constraint fk_product_id
+foreign key (product_id) references onlshop_product.product(product_id)

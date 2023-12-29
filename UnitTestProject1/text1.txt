@@ -1,0 +1,9 @@
+﻿Link kết quả mutaion testing: C:\DoAn1\UnitTestVersion\OnlineCourse\UnitTestProject1\StrykerOutput\
+2023-12-29.10-31-36\reports\mutation-report.html
+
+Đề bài: https://github.com/vutuanhai237/CourseMaterials/blob/master/SE113-Software%20testing/Exercises/Lab1.md
+
+
+https://github.com/vutuanhai237/CourseMaterials/blob/master/SE113-Software%20testing/Exercises/Lab2.md
+
+
