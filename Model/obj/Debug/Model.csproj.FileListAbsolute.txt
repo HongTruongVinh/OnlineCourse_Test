@@ -94,3 +94,19 @@ C:\DoAn1\UnitTestVersion\OnlineCourse\Model\obj\Debug\Model.csproj.CoreCompileIn
 C:\DoAn1\UnitTestVersion\OnlineCourse\Model\obj\Debug\Model.csproj.CopyComplete
 C:\DoAn1\UnitTestVersion\OnlineCourse\Model\obj\Debug\Model.dll
 C:\DoAn1\UnitTestVersion\OnlineCourse\Model\obj\Debug\Model.pdb
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\Model.dll.config
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\Model.dll
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\Model.pdb
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\EntityFramework.dll
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\PagedList.dll
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\EntityFramework.xml
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\PagedList.xml
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\obj\Debug\Model.dll
+C:\Users\HONG VINH\OneDrive\Desktop\New folder\OnlineCourse_Test\Model\obj\Debug\Model.pdb
