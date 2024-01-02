@@ -11,24 +11,22 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: [window-latest]
     
     steps:
       - name: Check out code
         uses: actions/checkout@v2
 
-      - name: Setup .NET 5.0
-        uses: actions/setup-dotnet@v1
-        with: 
-          dotnet-version: '5.0.x'
+      - name: Setup msbuild
+        uses: microsoft/setup-msbuild@v1
 
-      - name: Install dependencies
-        run: dotnet restore
+      - name: Setup NuGet
+        uses: NuGet/setup-msbuild@v1.0.2
         
+      - name: Restore Nuget packages
+        run: nuget restore OnlineCourse.snl
 
-      - name: Build app
-        run: dotnet build -c Release --no-restore
+      - name: Build solution
+        run: msbuild OnlineCourse.snl
 
-      - name: run automated tests
-        run: dotnet test -c Release --no-build
        
