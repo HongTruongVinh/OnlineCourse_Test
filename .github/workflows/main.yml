@@ -28,5 +28,6 @@ jobs:
 
       - name: Build solution
         run: msbuild OnlineCourse.sln
-
         
+       - name: Run UnitTest
+        run: cd UnitTestProject1
