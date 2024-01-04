@@ -30,4 +30,4 @@ jobs:
         run: msbuild OnlineCourse.sln
         
        - name: Run UnitTest
-        run: cd UnitTestProject1
+        run: VSTest.Console.exe UnitTestProject1.dll
