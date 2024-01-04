@@ -29,4 +29,6 @@ jobs:
       - name: Build solution
         run: msbuild OnlineCourse.sln
 
-       
+       - name: Run UnitTest
+        run: msbuild UnitTest_Controller.csproj
+        
