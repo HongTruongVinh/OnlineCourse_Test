@@ -31,4 +31,6 @@ jobs:
         
       - name: run test
         run: dotnet test 
+        env: 
+          DOTNET_VERSION: ${{ matrix.dotnet }}
         
