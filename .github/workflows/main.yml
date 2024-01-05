@@ -27,7 +27,7 @@ jobs:
         run: nuget restore OnlineCourse.sln
 
       - name: Build solution
-        run: msbuild OnlineCourse.sln
+        run: msbuild OnlineCourse/OnlineCourse.csproj -t:rebuild -verbosity:diag -property:Configuration=Release
         
       - name: run test
         run: dotnet test 
