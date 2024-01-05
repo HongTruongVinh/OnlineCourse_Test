@@ -29,9 +29,6 @@ jobs:
       - name: Build solution
         run: msbuild OnlineCourse.sln
         
-      - name: Build UnitTest
-        run: cd UnitTestProject1
-        
       - name: run test
         run: dotnet test --configuration Release
         
